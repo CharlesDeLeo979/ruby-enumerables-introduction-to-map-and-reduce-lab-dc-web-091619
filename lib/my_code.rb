@@ -8,6 +8,12 @@ def map_to_negativize(array)
   return final_array
 end
 
-def map_to_no_change(dune)
-  
+def map_to_no_change(array)
+  final_array = []
+  counter = 0 
+  while counter < array.size do 
+    final_array << array[counter]
+    counter += 1
+  end
+  return final_array
 end
