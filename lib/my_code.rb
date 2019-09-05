@@ -27,3 +27,6 @@ def map_to_double(array)
   end
   return final_array
 end
+
+def map_to_square(array)
+  
