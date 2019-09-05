@@ -17,3 +17,6 @@ def map_to_no_change(array)
   end
   return final_array
 end
+
+def map_to_double(array)
+  
